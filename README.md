@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopintosp
 - 👀 I’m a Mining and Geo-resources Engineering student 
-- 🌱 I’m currently learning how to programm
+- 🌱 I’m currently learning how to program
 - 📫 How to reach me by e-mail -> joaopintosp13@gmail.com
 
 <!---
