@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopintosp
-- 👀 I’m interested in Engineering and Numerical Methods
-- 🌱 I’m currently learning bash scripting
+- 👀 I’m a Mining and Geo-resources Engineering student 
+- 🌱 I’m currently learning how to programm
 - 📫 How to reach me by e-mail -> joaopintosp13@gmail.com
 
 <!---
